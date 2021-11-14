@@ -1,0 +1,7 @@
+cmake.onlineHelp
+eslint.createConfig
+pyright.organizeimports
+eslint.executeAutofix
+pyright.addImport
+python.runLinting
+eslint.showOutputChannel
