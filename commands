@@ -1,6 +1,6 @@
+cmake.onlineHelp
 tsserver.organizeImports
 document.showIncomingCalls
-cmake.onlineHelp
 eslint.createConfig
 pyright.organizeimports
 eslint.executeAutofix
