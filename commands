@@ -1,9 +1,0 @@
-cmake.onlineHelp
-tsserver.organizeImports
-document.showIncomingCalls
-eslint.createConfig
-pyright.organizeimports
-eslint.executeAutofix
-pyright.addImport
-python.runLinting
-eslint.showOutputChannel
