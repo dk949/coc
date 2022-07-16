@@ -1,9 +1,10 @@
-list-diagnostics-history.json
-list-location-history.json
-list-outline-history.json
-suggest.txt
-memos.json
 commands
+list-commands-history.json
+list-diagnostics-history.json
 list-folders-history.json
 list-lists-history.json
+list-location-history.json
+list-outline-history.json
 lists
+memos.json
+suggest.txt
